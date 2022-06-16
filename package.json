@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "caf": "^15.0.0-preB",
     "get-stdin": "^7.0.0",
-    "minimist": "^1.2.6"
+    "minimist": "^1.2.6",
+    "node-static-alias": "^1.1.2",
+    "sqlite3": "^5.0.8"
   }
 }
